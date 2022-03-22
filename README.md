@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I'M João Souza e Silva, and welcome to my GitHub page!
 
 <!--
 **JoaoSouzaeSilva/JoaoSouzaeSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
