@@ -1,4 +1,4 @@
-### Hello there! I'M João Souza e Silva, and welcome to my GitHub page!
+### Hello there! I'm João Souza e Silva, and welcome to my GitHub page!
 
 ##
 
