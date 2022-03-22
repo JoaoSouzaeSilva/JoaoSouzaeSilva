@@ -1,5 +1,7 @@
 ### Hello there! I'M João Souza e Silva, and welcome to my GitHub page!
 
+##
+
 <div align="left">
   <a href="https://github.com/JoaoSouzaeSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSouzaeSilva&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -21,5 +23,4 @@
   <a href="https://www.linkedin.com/in/joaosouzasilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
    ![Snake animation](https://github.com/JoaoSouzaeSilva/JoaoSouzaeSilva/blob/output/github-contribution-grid-snake.svg)
- 
 </div>                                                                                                                               
