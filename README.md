@@ -37,5 +37,4 @@
 	<img src="https://komarev.com/ghpvc/?username=JoaoSouzaeSilva&label=Profile%20views&color=139cf3&style=plastic" alt="joaosouzaesilva" /> 
   </p>
   
-   ![Snake animation](https://github.com/JoaoSouzaeSilva/JoaoSouzaeSilva/blob/output/github-contribution-grid-snake.svg)
 </div>                                                                                                                                
