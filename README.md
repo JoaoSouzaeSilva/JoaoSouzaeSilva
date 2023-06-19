@@ -1,8 +1,7 @@
-![Header](./github-header-image.png)
-
-##
-
-<br>
+<h2> Hello there, I'm João Souza e Silva! </h2>
+<img align='right' src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" width="230">
+<p><em>Software Engineering student at <a href="https://www.fct.unl.pt">FCT NOVA</a>
+</em></p>
 
 <div align="left">
   <a href="https://github.com/JoaoSouzaeSilva">
