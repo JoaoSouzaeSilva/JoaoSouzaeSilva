@@ -33,8 +33,4 @@
   <br>
   <br>
   
-  <p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=JoaoSouzaeSilva&label=Profile%20views&color=139cf3&style=plastic" alt="joaosouzaesilva" /> 
-  </p>
-  
 </div>                                                                                                                                
