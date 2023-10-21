@@ -1,7 +1,6 @@
 <h2> Hello there, I'm João Souza e Silva! </h2>
 <img align='right' src="https://media.giphy.com/media/8m4gPv1UFz1jmiCtKd/giphy.gif" width="230">
 <p><em>Software Engineering Student at <a href="https://www.fct.unl.pt">FCT NOVA</a>
-<p><em>Summer Intern at <a href="https://www.mercedes-benz.io">Mercedes-Benz.IO</a>
 </em></p>
 
 <br>
