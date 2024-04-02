@@ -21,7 +21,7 @@ const JoaoSouzaeSilva = {
     pronouns: "He" | "Him",
     code: [Java, GCP, Kotlin, SQL, Javascript, C, Python, HTML, CSS, Swift],
     tools: [Spring, React, Node, Docker],
-    latest addition to the collection: Swift and IOSDev
+    latestAdditionToTheCollection: "Swift and IOSDev"
     askMeAbout: ["backend", "OOP", "web dev", "sports"],
     nativeLanguage: [Java],
     currentFocus: "Finishing my thesis with DISME and build good Swift foundations",
