@@ -24,7 +24,7 @@ const JoaoSouzaeSilva = {
     latestAdditionToTheCollection: "Swift and IOSDev",
     askMeAbout: ["backend", "OOP", "web dev", "sports"],
     nativeLanguage: [Java],
-    currentFocus: "Finishing my thesis with DISME and build good Swift foundations",
+    currentFocus: "Finishing my master thesis",
     funFact: "there are 10 types of people in this world, those who understand binary and those who dont"
 };
 ```
