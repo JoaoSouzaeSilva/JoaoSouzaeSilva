@@ -29,9 +29,3 @@ const JoaoSouzaeSilva = {
 };
 ```
 <br>
-
-<h5> Some stats about my GitHub: </h5>
-<div align="left">
-  <a href="https://github.com/JoaoSouzaeSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSouzaeSilva&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-</div>
