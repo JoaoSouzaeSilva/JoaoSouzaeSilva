@@ -18,14 +18,62 @@
 
 ```javascript
 const JoaoSouzaeSilva = {
-    pronouns: "He" | "Him",
-    code: [Java, GCP, Kotlin, SQL, Javascript, C, Python, HTML, CSS, Swift],
-    tools: [Spring, React, Node, Docker],
-    latestAdditionToTheCollection: "Swift and IOSDev",
-    askMeAbout: ["backend", "OOP", "web dev", "sports"],
-    nativeLanguage: [Java],
-    currentFocus: "Finishing my master thesis",
-    funFact: "there are 10 types of people in this world, those who understand binary and those who dont"
+    pronouns: ["he", "him"],
+
+    role: "Backend Developer",
+
+    languages: [
+        "Java",
+        "Kotlin",
+        "SQL",
+        "Python",
+        "JavaScript",
+        "C"
+    ],
+
+    backend: [
+        "Spring Boot",
+        "Quarkus",
+        "REST APIs",
+        "Microservices",
+        "JPA/Hibernate"
+    ],
+
+    frontendExperience: [
+        "React",
+        "Angular",
+        "Thymeleaf",
+        "jQuery"
+    ],
+
+    databases: [
+        "PostgreSQL",
+    ],
+
+    devTools: [
+        "Docker",
+        "Git",
+        "GitHub Actions",
+        "Railway"
+    ],
+
+    architectureInterests: [
+        "Backend Architecture",
+        "API Design",
+        "System Design"
+    ],
+
+    currentProject: [
+        "Pinga 🍻 – social drinking tracker (Kotlin + Flutter)",
+    ],
+
+    currentFocus: [
+        "Building scalable backend systems",
+        "Writing clean and maintainable code",
+        "Running far and lifiting heavy"
+    ],
+
+    funFact: "There are 10 types of people in this world: those who understand binary and those who don't."
 };
 ```
 <br>
